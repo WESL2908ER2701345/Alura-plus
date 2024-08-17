@@ -16,4 +16,10 @@
     }
     .principal {
         background-image: url("backgroud.png");
+        brackground-repeat:no-repeat;
+        brackground-size:contain
+
+   container
+        heigt :100vh;
+        display: grid; 
     }
