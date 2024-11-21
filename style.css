@@ -88,3 +88,13 @@ body {
 .container__decricao{
     padding: 2em;
 }
+
+.dispositivos__lista{
+
+
+    display: flex;
+    justify-content: center;
+    list-style-type: nome;
+    margin: 5em 0;
+}
+
